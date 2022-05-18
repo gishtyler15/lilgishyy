@@ -83,6 +83,8 @@
     </td>
   </tr>
 </table>
-<p>&nbsp;<img align="right" width="500"src="https://github-readme-stats.vercel.app/api?username=lilgishyy&show_icons=true&locale=en" alt="lilgishyy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilgishyy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilgishyy" /></p>
 
-<p><img align="center" width="500"src="https://github-readme-streak-stats.herokuapp.com/?user=lilgishyy&" alt="lilgishyy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilgishyy&show_icons=true&locale=en&theme=tokyonight" alt="lilgishyy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilgishyy&&theme=tokyonight" alt="lilgishyy" /></p>
