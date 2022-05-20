@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/98624860/167753807-f1f77022-ee1e-4681-a408-0bf049a05cee.png)
 <h1 align="center">Hi 👋, I'm Tyler Gish</h1>
-<h3 align="center">A passionate full-stack software engineer</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/98624860/167755135-47bfc60e-e217-43c6-983a-b271ce354482.gif">
+<h3 align="center">A passionate full-stack software engineer from Ohio</h3>
+<p align="center">
+<img align="center" alt="coding" width="350" src="https://user-images.githubusercontent.com/98624860/167755135-47bfc60e-e217-43c6-983a-b271ce354482.gif">
+  </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilgishyy&label=Profile%20views&color=0e75b6&style=flat" alt="lilgishyy" /> </p>
