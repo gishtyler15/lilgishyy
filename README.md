@@ -48,8 +48,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Broken Eggs Breakfast</h3>
         <br />
-      <a target="_blank" href="https://brokeneggsbreakfast.netlify.app/">
             <img src="images/breakfast.gif" width="100%"  alt="Broken Eggs Breakfast"/>
+      <a target="_blank" href="https://brokeneggsbreakfast.netlify.app/">
         </a>
         <br />
         <p align="center">
